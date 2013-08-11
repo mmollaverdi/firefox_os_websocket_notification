@@ -1,0 +1,17 @@
+{
+  "name": "realtime-tweet-stream",
+  "version": "0.0.1",
+  "description": "Realtime tweet stream using socket.io",
+  "keywords":["twitter", "websocket", "socket.io", "realtime"],
+  "repository":"git://github.com/mmollaverdi/Realtime-tweet-stream.git",
+  "author": {
+    "name": "Mehdi Mollaverdi",
+    "email": "m.mollaverdi@gmail.com"
+  },
+  "dependencies": {
+    "ntwitter": "0.5.0",
+    "socket.io": "0.9"
+  },
+  "main" : "./index",
+  "engine": "node >= 0.6"
+}

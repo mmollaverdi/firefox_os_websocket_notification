@@ -1,0 +1,7 @@
+#notification_details {
+    font-family: 'mozTT';
+    src: url('../fonts/moztt_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-size: 1.5em;
+    font-style: normal;
+}
