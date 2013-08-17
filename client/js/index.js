@@ -1,6 +1,4 @@
-//var socket = io.connect('http://' + document.location.host);
-var socket = io.connect('http://192.168.88.158');
-
+var socket = io.connect('http://localhost');
 var notification = navigator.mozNotification;
 
 socket.on('newContent', function (data) {

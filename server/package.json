@@ -1,9 +1,8 @@
 {
-  "name": "realtime-tweet-stream",
+  "name": "tweet-stream-for-firefox-os",
   "version": "0.0.1",
-  "description": "Realtime tweet stream using socket.io",
-  "keywords":["twitter", "websocket", "socket.io", "realtime"],
-  "repository":"git://github.com/mmollaverdi/Realtime-tweet-stream.git",
+  "description": "Tweet stream for FireFox OS apps using socket.io",
+  "keywords":["FireFox OS", "twitter", "websocket", "socket.io"],
   "author": {
     "name": "Mehdi Mollaverdi",
     "email": "m.mollaverdi@gmail.com"
@@ -13,5 +12,5 @@
     "socket.io": "0.9"
   },
   "main" : "./index",
-  "engine": "node >= 0.6"
+  "engine": "node >= 0.10"
 }

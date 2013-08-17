@@ -1,6 +1,6 @@
 {
     "version": "1",
-    "name": "Firefox OS CampJS App",
+    "name": "Firefox OS WebSocket Notifiaction App",
     "launch_path": "/index.html",
     "description": "My App",
     
